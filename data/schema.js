@@ -4,5 +4,8 @@ import {
 
 
 let schema = new GraphQLSchema({
-    
+    query: new GraphQLObjectTye({
+
+    }),
+    // mutation: 
 })
